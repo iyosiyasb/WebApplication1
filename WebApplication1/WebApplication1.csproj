@@ -75,6 +75,12 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bread_img\Bread %281%29.jpg" />
+    <Content Include="bread_img\Bread.jpg" />
+    <Content Include="bread_img\download.jpe" />
+    <Content Include="bread_img\Korb_mit_Brötchen.JPG" />
+    <Content Include="Contact.html" />
+    <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
